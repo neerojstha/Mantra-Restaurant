@@ -9,4 +9,17 @@
 body {
     font-family: open Sans, sans-serif;
     font-weight: 300; 
+    color: darkslategray;
+}
+
+/* headings and logo */
+h1, h2 {
+    font-family: open Sans, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: palevioletred;
+}
+#logo {
+    float: right;
+    font-size: 300%;
 }
