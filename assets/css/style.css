@@ -22,6 +22,7 @@ h1, h2 {
 #logo {
     float: right;
     font-size: 300%;
+    margin-right: 120px;
 }
 
 /* navigation links */
@@ -108,4 +109,26 @@ animation-fill-mode: forwards;
     right: 150px;
 
     position: absolute;
+}
+/* experience mantra */
+
+#mantra-ex {
+    height: 600px;
+}
+#left-side {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: aqua;
+}
+#right-side {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: chocolate;
+}
+#center-ni {
+    width: 33%;
+    margin: 0 auto;
+    background-color: chartreuse;
 }
