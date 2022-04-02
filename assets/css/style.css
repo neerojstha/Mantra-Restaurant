@@ -193,3 +193,18 @@ hr {
     border: 2px solid white;
     box-sizing: border-box;
 }
+footer {
+    height: 150px;
+}
+.social-media {
+    text-align: center;
+}
+.social-media > li {
+      display: inline;      
+}
+.social-media i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
