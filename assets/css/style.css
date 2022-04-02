@@ -119,16 +119,37 @@ animation-fill-mode: forwards;
     padding-top: 30px;
     width: 33%;
     float: left;
-    background-color: aqua;
+    
 }
 #right-side {
     padding-top: 30px;
     width: 33%;
     float: right;
-    background-color: chocolate;
+    
 }
 #center-ni {
     width: 33%;
     margin: 0 auto;
     background-color: chartreuse;
 }
+
+.left-side-heading {
+    width: 60%;
+    float: right;
+    line-height: 25px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.right-side-heading {
+    width: 60%;
+    float: left;
+    line-height: 25px;
+    clear: both;
+    margin-bottom: 50px;
