@@ -130,7 +130,7 @@ animation-fill-mode: forwards;
 #center-ni {
     width: 33%;
     margin: 0 auto;
-    background-color: chartreuse;
+    
 }
 
 .left-side-heading {
@@ -153,3 +153,24 @@ hr {
     line-height: 25px;
     clear: both;
     margin-bottom: 50px;
+}
+#experience {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: goldenrod;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+#circle-cover-bg  {
+    background: url(../images/momo.jpg) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
