@@ -208,3 +208,11 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+#food {
+    text-align: center;
+    clear: both;
+    line-height: 20px;
+}
+#food > h1 {
+    line-height: 20px;
+}
