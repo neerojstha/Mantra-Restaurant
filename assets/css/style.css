@@ -20,7 +20,7 @@ h1, h2 {
     color: palevioletred;
 }
 #logo {
-    float: right;
+    float: left;
     font-size: 300%;
     margin-right: 120px;
 }
@@ -35,7 +35,7 @@ h1, h2 {
     line-height: 110px;
 }
 #menu li {
-    float: left;
+    float: right;
     list-style-type: none;
     margin-left: 30px;
 }
@@ -215,4 +215,47 @@ footer {
 }
 #food > h1 {
     line-height: 20px;
+}
+/* gallary */
+#foto {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+
+}
+
+#foto > img {
+    width: 100%;
+}
+
+/* media queries */
+@media screen and (max-width: 1200px) {
+    #mantra-ex {
+        width: 65%;
+        height: 1200px;
+        margin: 0 autos;
+    }
+
+    #experience {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    #left-side, #right-side {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #center-ni {
+        float: left;
+        clear: both;
+        width: 100%;
+        padding: 0;
+    }
+
+    hr {
+        display: none;
+    }
 }
