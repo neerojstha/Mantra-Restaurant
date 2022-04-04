@@ -269,4 +269,23 @@ footer {
         margin-bottom: 20px;
         line-height: 25px;
     }
+    #cover-text {
+        left: 0;
+    }
+    #mantra-ex {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    .left-side-heading, .right-side-heading {
+        width: inherit;
+    }
+    .left-side-heading h2, .right-side-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+    .left-side-heading p, .right-side-heading p {
+        text-align: center;
+        padding: 0 20px;
+    }
 }
