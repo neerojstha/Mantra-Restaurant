@@ -195,7 +195,7 @@ hr {
     line-height: 30px;
 }
 footer {
-    height: 150px;
+    height: 140px;
 }
 .social-media {
     text-align: center;
@@ -207,7 +207,7 @@ footer {
     font-size: 150%;
     margin: 1%;
     padding: 5%;
-    color: #3a3a3a;
+    color: blueviolet;
 }
 
 /* Menu Section */
@@ -227,7 +227,7 @@ h2 {
 #foto {
     clear: both;
     line-height: 0;
-    column-count: 4;
+    column-count: 3;
     column-gap: 0;
 
 }
