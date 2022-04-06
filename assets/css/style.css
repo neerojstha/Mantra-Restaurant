@@ -226,14 +226,20 @@ h2 {
 /* gallary */
 #foto {
     clear: both;
-    line-height: 0;
+    line-height: auto;
     column-count: 3;
     column-gap: 0;
-
+    margin-bottom: 20px;
+    background: rgb(139, 139, 136);
+    padding: 10px;
 }
 
 #foto > img {
     width: 100%;
+    height: auto;
+    display: block;
+    box-sizing: border-box;
+    padding: 10px;
 }
 
 /* media queries */
