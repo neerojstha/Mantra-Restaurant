@@ -209,6 +209,10 @@ footer {
     padding: 5%;
     color: blueviolet;
 }
+h3 {
+    text-align: center;
+    margin: 0 auto;
+}
 
 /* Menu Section */
 #food {
