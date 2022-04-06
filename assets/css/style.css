@@ -209,13 +209,19 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+
+/* Menu Section */
 #food {
     text-align: center;
     clear: both;
+    line-height: 40px;
+    margin-bottom: 40px;
+}
+#food > h2 {
     line-height: 20px;
 }
-#food > h1 {
-    line-height: 20px;
+h2 {
+    padding: 20px;
 }
 /* gallary */
 #foto {
