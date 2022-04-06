@@ -19,3 +19,6 @@ This website users will get all the neccessary information about Mantra Restaura
 <h2>Mantra Restaurant</h2>
 <img src="assets/images/Header.png">
 
+<img src="assets/images/lighthouse.png">
+
+
