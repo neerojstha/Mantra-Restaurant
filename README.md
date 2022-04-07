@@ -16,8 +16,21 @@ This website users will get all the neccessary information about Mantra Restaura
 </li>
 </ul>
 <hr>
-<h2>Mantra Restaurant</h2>
+
 <img src="assets/images/Header.png">
+<ul>
+<li>Heading</li>
+<ul>
+<li>Heading  demonstrate the brand of the institiution and easy to recognize.</li>
+<li>it describe a restaurant name and easy to read. </li>
+</ul>
+</ul>
+<hr>
+
+
+
+
+
 
 <img src="assets/images/lighthouse.png">
 
