@@ -27,10 +27,47 @@ This website users will get all the neccessary information about Mantra Restaura
 </ul>
 <hr>
 
+<img src="assets/images/map-opening hours.png">
+<ul>
+<li>Map and Opening Hours</li>
+<ul>
+<li>User can search our restauration location through provided location map on website.</li>
+<li>user can see restaurant opening hours, location, and contact us section on website .</li></ul>
+</ul>
+<hr>
 
+<img src="assets/images/finduson.png">
+<ul>
+<li>Find us on</li>
+<ul>
+<li>At footer section on the website user can see social media links from where our customer can get regualr updates about menus and speical events.</li>
+<li>we have designed specific social media icons which is easy to understand.</li>
+</ul>
+</ul>
 
+<hr>
 
+<img src="assets/images/gallary.png">
+<ul>
+<li>Gallary</li>
+<ul>
+<li>Our user and customer can see our food images through our gallary section.</li>
+<li>user can experience high resolution images with highly elevated Nepalese cuisine.</li>
+</ul>
+</ul>
 
+<hr>
+
+<img src="assets/images/booking.png">
+<ul>
+<li>Reservation</li>
+<ul>
+<li>Our user can see clean and user friendly booking system.</li>
+<li>user can submit their details with full name, phone number, email, number of person and date of intended booking.</li>
+</ul>
+</ul>
+
+<hr>
 
 <img src="assets/images/lighthouse.png">
 
