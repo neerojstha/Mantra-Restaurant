@@ -230,7 +230,7 @@ h2 {
 /* gallary */
 #foto {
     clear: both;
-    line-height: auto;
+    line-height: normal;
     column-count: 3;
     column-gap: 0;
     margin-bottom: 20px;
@@ -251,7 +251,7 @@ h2 {
     #mantra-ex {
         width: 65%;
         height: 1200px;
-        margin: 0 autos;
+        margin:0 auto;
     }
 
     #experience {
