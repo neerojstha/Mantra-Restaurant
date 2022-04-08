@@ -72,10 +72,22 @@ This website users will get all the neccessary information about Mantra Restaura
 <h2>Performance/Testing</h2>
 <hr>
 <ul>
-<li>this pages is tested in different browers such as chrome, firefox, safari and ms egde and working perfectly fine.</li>
+<li>This pages tested in different browers such as chrome, firefox, safari and ms egde and working perfectly fine.</li>
 <li>pages are clear, good looking and user friendly.</li>
 <li>form section is userfriendly and all section required requested information to complete booking system.</li>
 </ul>
 <img src="assets/images/lighthouse.png">
 
+<h2>Deployment</h2>
+<hr>
+<ul>
+<li>This pages are deployed in git hub pages and published </li>
+<li> site link : https://neerojstha.github.io/Mantra-Restaurant/index.html</li>
+</ul>
 
+
+<h2>Credits</h2>
+<hr>
+<ul>
+<li>This pages html and css codes are inspired form love running project.</li>
+<li>Photos are received from pexel, unsplash and google images. </li></ul>
