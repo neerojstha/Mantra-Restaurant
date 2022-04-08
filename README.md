@@ -67,8 +67,15 @@ This website users will get all the neccessary information about Mantra Restaura
 </ul>
 </ul>
 
-<hr>
 
+
+<h2>Performance/Testing</h2>
+<hr>
+<ul>
+<li>this pages is tested in different browers such as chrome, firefox, safari and ms egde and working perfectly fine.</li>
+<li>pages are clear, good looking and user friendly.</li>
+<li>form section is userfriendly and all section required requested information to complete booking system.</li>
+</ul>
 <img src="assets/images/lighthouse.png">
 
 
