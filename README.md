@@ -9,8 +9,8 @@ This website users will get all the neccessary information about Mantra Restaura
 <ul>
 <li>Navigation
   <ul>
-    <li>Restaurant Name on left side of the website</li>
-    <li>The nevigation links are home, menu, gallary and reservation on right side top right side on website.</li>
+    <li>Restaurant Name on left side of the website.</li>
+    <li>The navigation links are home, menu, gallary and reservation on right side top right side on website.</li>
     <li> Website navigation clearly helps to understand name of the restaurant and information about different sections.</li>
 </ul>
 </li>
