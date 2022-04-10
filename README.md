@@ -89,5 +89,5 @@ This website users will get all the neccessary information about Mantra Restaura
 <h2>Credits</h2>
 <hr>
 <ul>
-<li>This pages html and css codes are inspired form love running project.</li>
+<li>This pages html and css codes are inspired from love running project.</li>
 <li>Photos are received from pexel, unsplash and google images. </li></ul>
