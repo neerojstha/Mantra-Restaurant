@@ -125,7 +125,7 @@ This website users will get all the neccessary information about Mantra Restaura
 <hr>
 <ul>
 <li>CSS flexbox would be use to arrange gallary section images.</li>
-<li>Online takeaway serivce would be added.</li>
+<li>Online takeaway service would be added.</li>
 <li>Menu section would be design with attractive images.</li></ul>
 <h2>Performance/Testing</h2>
 <hr>
