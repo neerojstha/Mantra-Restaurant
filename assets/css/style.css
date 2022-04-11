@@ -230,13 +230,17 @@ h4 {
     line-height: 40px;
     margin-bottom: 40px;
 }
-#food h2 li {
+#food li {
     line-height: 20px;
     font-family: open sans, sans-serif;
-    font-size: 30px;
+    font-size: 20px;
+    font-weight: bold;
 }
 h2 {
     padding: 20px;
+}
+#food p {
+    font-style: italic;
 }
 
 /* gallary */
