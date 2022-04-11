@@ -22,6 +22,38 @@ This website users will get all the neccessary information about Mantra Restaura
 <li>Credits</li>
 </ul>
 
+<h2>User Experience Design</h2>
+<hr>
+<ul>
+<li>Strategy Plane</li>
+<ul>
+<li>This website design should provide information about Mantra Restauant information to the users. clean and user friendly pages are helpful to understand.</li></ul>
+</ul>
+<ul>
+<li>Scope Plan</li>
+<ul>
+<li>This website should work across all browers such as chrome, safari, firefox and edge.</li>
+<li>Navigation should be fully funtional to help users.</li>
+<li>This website shuold be fully funtional in all mode of screen.</li></ul></ul>
+
+<ul>
+<li>Structure Plane</li>
+<ul>
+<li>The website should be clean, elegant color layout, all ages user friendly. </li>
+<li>User should be able to submit their details at the time of booking.</li>
+<li>User would be able to navigate with keyboards.</li></ul>
+</ul>
+
+<ul>
+<li>Skeleton Plane</li>
+<ul>
+<li>I used love running project framework to designed this website.</li>
+<li> On the home page restaurant brand name is visible, all the navigation keys are on the top right handside. </li>
+<li> Map provided to guide our customer to the restaurant.</li>
+<li>Social media links are provided to engage customer for new menus, events and about updates.</li></ul></ul>
+
+<ul>
+<li>Surface Design</li></ul>
 <h2>Features:</h2>
 <hr>
 <ul>
