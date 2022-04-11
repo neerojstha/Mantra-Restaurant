@@ -4,6 +4,24 @@ This website users will get all the neccessary information about Mantra Restaura
 
 <img src="assets/images/readme view.png">
 
+<h2>Table of Contents</h2>
+<hr>
+<ul>
+<li>User experience Design(UX)</li>
+<ul>
+<li>Strategy Plane</li>
+<li>Scope Plan</li>
+<li>Structure Plane</li>
+<li>Skeleton Plane</li>
+<li>Surface Plane</li>
+</ul>
+<li>Features</li>
+<li>Future Enhancement</li>
+<li>Performance Testing</li>
+<li>Deployment</li>
+<li>Credits</li>
+</ul>
+
 <h2>Features:</h2>
 <hr>
 <ul>

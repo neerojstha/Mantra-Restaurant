@@ -1,6 +1,11 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;1,600&family=Open+Sans&family=Roboto:wght@300&display=swap');
 
+@font-face {
+    font-family: CustomFont2;
+    src: url('CustomFont2.ttf');
+}
 * {
     margin: 0;
     padding: 0;
@@ -215,7 +220,9 @@ h3 {
     text-align: center;
     margin: 0 auto;
 }
-
+h4 {
+    text-align: center;
+}
 /* Menu Section */
 #food {
     text-align: center;
@@ -225,6 +232,8 @@ h3 {
 }
 #food > h2 {
     line-height: 20px;
+    font-family: cabin;
+    font-weight: bold;
 }
 h2 {
     padding: 20px;
