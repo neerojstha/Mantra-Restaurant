@@ -47,13 +47,17 @@ This website users will get all the neccessary information about Mantra Restaura
 <ul>
 <li>Skeleton Plane</li>
 <ul>
-<li>I used love running project framework to designed this website.</li>
+<li>I used baslamic wireframe to designed this website.</li>
 <li> On the home page restaurant brand name is visible, all the navigation keys are on the top right handside. </li>
 <li> Map provided to guide our customer to the restaurant.</li>
 <li>Social media links are provided to engage customer for new menus, events and about updates.</li></ul></ul>
 
 <ul>
-<li>Surface Design</li></ul>
+<li>Surface Design</li>
+<ul>
+<li>Nice and attractive hero image would be added.</li>
+<li>light cover text added with the mantra brand name.</li>
+<li>final outcome of the website design is satisfactory.</li></ul></ul>
 <h2>Features:</h2>
 <hr>
 <ul>
@@ -117,8 +121,12 @@ This website users will get all the neccessary information about Mantra Restaura
 </ul>
 </ul>
 
-
-
+<h2>Future Enhancement</h2>
+<hr>
+<ul>
+<li>CSS flexbox would be use to arrange gallary section images.</li>
+<li>Online takeaway serivce would be added.</li>
+<li>Menu section would be design with attractive images.</li></ul>
 <h2>Performance/Testing</h2>
 <hr>
 <ul>
@@ -140,4 +148,5 @@ This website users will get all the neccessary information about Mantra Restaura
 <hr>
 <ul>
 <li>This pages html and css codes are inspired from love running project.</li>
-<li>Photos are received from pexel, unsplash and google images. </li></ul>
+<li>Photos are received from pexel, unsplash and google images. </li>
+<li>Special thanks to my mentor Rahul Lakhanpal for mentoring me during this project.</li></ul>

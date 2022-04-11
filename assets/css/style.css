@@ -232,12 +232,13 @@ h4 {
 }
 #food h2 li {
     line-height: 20px;
-    font-family: cabin;
-    font-weight: bold;
+    font-family: open sans, sans-serif;
+    font-size: 30px;
 }
 h2 {
     padding: 20px;
 }
+
 /* gallary */
 #foto {
     clear: both;
