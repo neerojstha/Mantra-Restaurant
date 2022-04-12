@@ -54,7 +54,14 @@ This website users will get all the neccessary information about Mantra Restaura
 <li>Mantra experience pages would be with image at centre followed by about, cuisine, experiecnce etc.</li>
 <img src="assets/images/homepage3.png">
 <li> Map and location provided to guide our customer to the restaurant.</li>
-<li>Social media links are provided to engage customer for new menus, events and about updates.</li></ul></ul>
+<li>Social media links are provided to engage customer for new menus, events and about updates.</li>
+<img src="assets/images/menupage1.png">
+<li>Menu pages would be easy to reade and understandable.</li>
+<img src="assets/images/gallerypage.png">
+<li>High resoultion photos to be added to inform user about our food and hope to attrat more new customer.</li>
+<img src="assets/images/reservationpage.png">
+<li>Our website reservation page is user friendly, clean and elegance.</li>
+</ul></ul>
 
 <ul>
 <li>Surface Design</li>
