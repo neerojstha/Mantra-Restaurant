@@ -114,7 +114,7 @@ This website users will get all the neccessary information about Mantra Restaura
 
 <img src="assets/images/gallary.png">
 <ul>
-<li>Gallary</li>
+<li>Gallery</li>
 <ul>
 <li>Our user and customer can see our food images through our gallary section.</li>
 <li>user can experience high resolution images with highly elevated Nepalese cuisine.</li>
