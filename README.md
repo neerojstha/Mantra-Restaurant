@@ -47,9 +47,13 @@ This website users will get all the neccessary information about Mantra Restaura
 <ul>
 <li>Skeleton Plane</li>
 <ul>
+<img src="assets/images/homepage1.png">
 <li>I used baslamic wireframe to designed this website.</li>
 <li> On the home page restaurant brand name is visible, all the navigation keys are on the top right handside. </li>
-<li> Map provided to guide our customer to the restaurant.</li>
+<img src="assets/images/homepage2.png">
+<li>Mantra experience pages would be with image at centre followed by about, cuisine, experiecnce etc.</li>
+<img src="assets/images/homepage3.png">
+<li> Map and location provided to guide our customer to the restaurant.</li>
 <li>Social media links are provided to engage customer for new menus, events and about updates.</li></ul></ul>
 
 <ul>
