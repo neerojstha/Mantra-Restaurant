@@ -33,24 +33,24 @@ h1, h2 {
 
 /* navigation links */
 
-#menu {
+#list {
     font-size: 90%;
     letter-spacing: 4px;
 }
-#menu, #logo {
+#list, #logo {
     line-height: 110px;
 }
-#menu li {
+#list li {
     float: right;
     list-style-type: none;
     margin-left: 0;
     margin-right: 25px;
 }
-#menu a {
+#list a {
     text-decoration: none;
     color: inherit;
 }
-#menu a:hover {
+#list a:hover {
     border-bottom: 1px solid royalblue;
 }
 .fun {
@@ -59,7 +59,7 @@ h1, h2 {
 
 /* hero-image */
 
-#hero-image {
+#hero-foto {
     height: 600px;
     width: 100%;
     background: url(../images/herophoto.jpg) no-repeat center center;
@@ -302,7 +302,7 @@ h2 {
 
 /* for media screen sizes from 950 px wide and down */
 @media screen and (max-width: 950px) {
-    #menu {
+    #list {
         float: left;
         clear: left;
         margin-left: 30px;
