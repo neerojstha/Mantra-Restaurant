@@ -202,19 +202,6 @@ hr {
     line-height: 30px;
 }
 
-.map-response{
-    overflow: hidden;
-    padding-bottom: 10%;
-    position: relative;
-    height: 0;
-}
-
-.map-response{
-    left: 0;
-    height: 100%;
-    width: 100%;
-    position: relative;
-}
 
 
 footer {
