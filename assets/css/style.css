@@ -209,6 +209,13 @@ hr {
     height: 0;
 }
 
+.map-response{
+    left: 0;
+    height: 50%;
+    width: 50%;
+    position: fixed;
+}
+
 
 footer {
     height: 140px;
