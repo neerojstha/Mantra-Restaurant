@@ -201,6 +201,15 @@ hr {
     box-sizing: border-box;
     line-height: 30px;
 }
+
+.map-response{
+    overflow: hidden;
+    padding-bottom: 30%;
+    position: relative;
+    height: 0;
+}
+
+
 footer {
     height: 140px;
 }
