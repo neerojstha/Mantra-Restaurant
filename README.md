@@ -92,7 +92,7 @@ This website users will get all the neccessary information about Mantra Restaura
 </ul>
 <hr>
 
-<img src="assets/images/map-opening hours.png">
+<img src="assets/images/map.png">
 <ul>
 <li>Map and Opening Hours</li>
 <ul>
@@ -138,6 +138,8 @@ This website users will get all the neccessary information about Mantra Restaura
 <li>CSS flexbox would be use to arrange gallary section images.</li>
 <li>Online takeaway service would be added.</li>
 <li>Menu section would be design with attractive images.</li></ul>
+
+
 <h2>Performance/Testing</h2>
 <hr>
 <ul>
@@ -146,6 +148,17 @@ This website users will get all the neccessary information about Mantra Restaura
 <li>form section is userfriendly and all section required requested information to complete booking system.</li>
 </ul>
 <img src="assets/images/lighthouse.png">
+
+<h3>W3 Validator</h3>
+<li>W3 Validator passed successfully without error.</li>
+<br>
+<img src="assets/images/w3 validator.png">
+
+
+<h3>Jigsaw css Validator</h3>
+<li> W3C validator passed withour Error</li>
+<br>
+<img src="assets/images/css validator.png">
 
 <h2>Deployment</h2>
 <hr>
