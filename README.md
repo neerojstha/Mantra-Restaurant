@@ -160,6 +160,15 @@ This website users will get all the neccessary information about Mantra Restaura
 <br>
 <img src="assets/images/css validator.png">
 
+<h3>Bugs</h3>
+<br>
+<ul>
+<li>Slower to connect with browser</li>
+<li>Mobile screen compatiblity issues</li>
+<li>Gallary images are not compatible with Mobile devices</li>
+</ul>
+
+
 <h2>Deployment</h2>
 <hr>
 <ul>
