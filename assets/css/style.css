@@ -308,7 +308,7 @@ h2 {
     #list {
         float: left;
         clear: left;
-        margin-left: 0;
+        margin-left: 10;
         margin-bottom: 20px;
         line-height: 25px;
         left: 0;
@@ -331,10 +331,13 @@ h2 {
     .left-side-heading p, .right-side-heading p {
         text-align: center;
         padding: 0 20px;
-        width: 100%;
+        
     }
 
-    
+    #map {
+        display: flex;
+        width: 100%;
+    }
     #foto {
         column-count: 2;
     }
