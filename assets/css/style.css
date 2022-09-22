@@ -303,20 +303,21 @@ h2 {
     }
 }
 
-/* for media screen sizes from 950 px wide and down */
-@media screen and (max-width: 950px) {
+/* for media screen sizes from 800 px wide and down */
+@media screen and (max-width: 800px) {
     #list {
         float: left;
         clear: left;
-        margin-left: 30px;
+        margin-left: 0;
         margin-bottom: 20px;
         line-height: 25px;
+        left: 0;
     }
     #cover-text {
         left: 0;
     }
     #mantra-ex {
-        width: 90%;
+        width: 100%;
         height: 1200px;
         margin: 0 auto;
     }
@@ -330,7 +331,10 @@ h2 {
     .left-side-heading p, .right-side-heading p {
         text-align: center;
         padding: 0 20px;
+        width: 100%;
     }
+
+    
     #foto {
         column-count: 2;
     }
